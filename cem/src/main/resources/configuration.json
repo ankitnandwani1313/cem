@@ -1,0 +1,10 @@
+{
+  "fileInformation": {
+    "trade": "hdfs://localhost:9000///user/hduser/merchandisetrade/",
+    "cpi": "hdfs://localhost:9000///user/hduser/cpi/",
+    "elecgen":"hdfs://localhost:9000///user/hduser/electricity-output/",
+    "outputLocation": "hdfs://localhost:9000//user/hduser/cpi-trade/",
+    "cor-dir": "hdfs://localhost:9000//user/hduser/cor-dir",
+    "local-cor-dir" : "C:\\Users\\91958\\Desktop\\1Semester\\DIA\\x20221266_Code\\graph\\part-r-00000"
+  }
+}
